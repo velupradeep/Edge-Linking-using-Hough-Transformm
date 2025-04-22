@@ -60,6 +60,10 @@ plt.axis('off')
 ![image](https://github.com/user-attachments/assets/541246d6-0d3e-46b2-92fe-ef7ff2b1ced3)
 
 
+# Result:
+To perform edge linking using the Hough Transform and extract only one line, you typically follow these steps in Python using OpenCV and NumPy:
+
+
 
 
 
