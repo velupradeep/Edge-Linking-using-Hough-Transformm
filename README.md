@@ -51,24 +51,20 @@ plt.axis('off')
 ```
 ## Output
 
-![image](https://github.com/user-attachments/assets/7926550b-f0f3-4301-86c9-9441be65538d)
+![image](https://github.com/user-attachments/assets/321be5bb-5c30-443e-82bf-4d97aef4da12)
 
-![image](https://github.com/user-attachments/assets/ef9c39be-c69c-4ae3-a270-e669084c1023)
+![image](https://github.com/user-attachments/assets/65984c65-6cf0-4ac5-ac04-72deb84b967a)
 
-![image](https://github.com/user-attachments/assets/2919189f-ce7f-425b-8a52-eea9ce9e9f39)
+![image](https://github.com/user-attachments/assets/5c9f0b4f-df9c-45ac-af45-b0062c03de4c)
 
-![image](https://github.com/user-attachments/assets/899adba7-aa53-409b-b45a-d14f8a9e809f)
-
-
+![image](https://github.com/user-attachments/assets/541246d6-0d3e-46b2-92fe-ef7ff2b1ced3)
 
 
 
 
-### Input image and grayscale image
-![output](./p1.png)
 
-### Canny Edge detector output
-![output](./p2.png)
 
-### Display the result of Hough transform
-![output](./p3.png)
+
+
+
+
